@@ -1,5 +1,5 @@
-import 'package:bonus/bonus.dart' as bonus;
+import 'package:bonus/bonus.dart';
 
 void main() {
-  print('${bonus.calculate(6, 7)}');
+  print('${calculate(6, 7)}');
 }
