@@ -1,5 +1,5 @@
 import '../lib/bonus.dart';
 
 void main() {
-  print('${calculate(6, )}');
+  print('${calculate(6, 7)}');
 }
